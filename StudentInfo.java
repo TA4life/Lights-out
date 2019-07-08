@@ -8,9 +8,9 @@ public class StudentInfo {
     public static void display() {
 
         System.out.println("************************************************************");
-        System.out.println("*          Obaida Kandakji                                 *");
-        System.out.println("*          8709800                                         *");
-        System.out.println("*          ITI 1121                                        *");
+        System.out.println("*                                                          *");
+        System.out.println("*                                                          *");
+        System.out.println("*                                                          *");
         System.out.println("*                                                          *");
         System.out.println("************************************************************");
         System.out.println();
